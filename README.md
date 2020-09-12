@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logo.png" >
+  <img src="media/logo.jpg" >
 </p>
 
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
@@ -38,7 +38,7 @@ print(result)
  print(result)
 ```
 
-[More information regarding utility of the driver can be found here (by the original creator)](https://github.com/BishopFox/h2csmuggler)
+[More information regarding utility of the driver can be found here (H2CS Author)](https://github.com/BishopFox/h2csmuggler)
 
 # Developing Dock2
 
